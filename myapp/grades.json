@@ -1,0 +1,45 @@
+[
+    {
+        "studentId": 1,
+        "studentName": "Paul Newman",
+        "grades":
+        [
+            {"Chemistry": "C"},
+            {"Phys Ed": "F"},
+            {"Calculas": "B"} 
+        ]
+    },
+
+    {
+        "studentId": 2,
+        "studentName": "Jerry Seinfeld",
+        "grades":
+        [
+            {"Chemistry": "A"},
+            {"Phys Ed": "B"},
+            {"Calculas": "A"} 
+        ]
+    },
+
+    {
+        "studentId": 3,
+        "studentName": "Elaine Benes",
+        "grades":
+        [
+            {"Chemistry": "B"},
+            {"Phys Ed": "D"},
+            {"Calculas": "B"} 
+        ]
+    },
+
+    {
+        "studentId": 4,
+        "studentName": "Frank Costanza",
+        "grades":
+        [
+            {"Chemistry": "D"},
+            {"Phys Ed": "D"},
+            {"Calculas": "D"} 
+        ]
+    }
+]

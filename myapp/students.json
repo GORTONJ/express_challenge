@@ -1,0 +1,21 @@
+[
+    {
+        "studentId": 1,
+        "studentName": "Paul Newman"
+    },
+
+    {
+        "studentId": 2,
+        "studentName": "Jerry Seinfeld"
+    },
+
+    {
+        "studentId": 3,
+        "studentName": "Elaine Benes"
+    },
+
+    {
+        "studentId": 4,
+        "studentName": "Frank Costanza"
+    }
+]
